@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Stiven Morelo Barahona</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&width=435&lines=Flutter;JavaScript;Amplify;Firebase;Dart;Figma;Swift;GraphQL;MongoDB;PostgresQL;Flutter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=F7F7F7&width=435&lines=Flutter;JavaScript;Amplify;Firebase;Dart;Figma;Swift;GraphQL;MongoDB;PostgresQL;Flutter)](https://git.io/typing-svg)
 
 
 <img align="right" alt="Me" width="350" src="https://github.com/Stivenmore/StivenMore/blob/main/me2.png">
