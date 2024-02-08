@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Stiven Morelo Barahona</h1>
-<h3 align="center">I am a flutter application developer with 4.5 years of experience, continuously committed to quality. I focus on creating exceptional user experiences, bridging the gap between customer needs and user expectations.</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&width=435&lines=Flutter;JavaScript;Amplify;Firebase;Dart;Figma;Swift;GraphQL;MongoDB;PostgresQL;Flutter)](https://git.io/typing-svg)
+
+<img align="right" alt="Coding" width="550" src="https://github.com/Stivenmore/StivenMore/blob/main/me.png">
+<h3 align="center">I am a flutter application developer with 4.5 years of experience, continuously committed to quality. I focus on creating exceptional user experiences, bridging the gap between customer needs and user expectations.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
