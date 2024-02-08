@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Stiven Morelo Barahona</h1>
 <h3 align="center">I am a flutter application developer with 4.5 years of experience, continuously committed to quality. I focus on creating exceptional user experiences, bridging the gap between customer needs and user expectations.</h3>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&width=435&lines=Flutter;JavaScript;Amplify;Firebase;Dart;Figma;Swift;GraphQL;MongoDB;PostgresQL;Flutter)](https://git.io/typing-svg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://smoreb.me/home" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://smoreb.me/home" height="30" width="40" /></a>
@@ -17,3 +19,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Stivenmore&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Stivenmore&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![image](https://github.com/Stivenmore/StivenMore/assets/62867486/53618cbb-ca6e-4d0b-a7a9-92e6d028d266)
+![flutter](https://github.com/Stivenmore/StivenMore/assets/62867486/0170402d-54fe-4923-b2ef-b012b7fad92f)
