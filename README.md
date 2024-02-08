@@ -3,7 +3,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Stiven Morelo Barahona</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&repeat=false&random=true&width=610&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Stiven+Morelos+Barahona)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=F7F7F7&width=435&lines=Flutter;JavaScript;Amplify;Firebase;Dart;Figma;Swift;GraphQL;MongoDB;PostgresQL;Flutter)](https://git.io/typing-svg)
 
