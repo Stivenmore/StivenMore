@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **Flutter Projects**
 
-- 🌱 I’m currently learning **ML**
+- 🌱 I’m currently learning **ML, IOS(Vision PRO) and NestJS**
 
 - 💬 Ask me about **Flutter and NodeJS**
 
