@@ -38,7 +38,7 @@
 
 
 # 🚀 About Me:
-I am a flutter application developer with 4.5 years of experience, continuously committed to quality. I focus on creating exceptional user experiences, bridging the gap between customer needs and user expectations.<br>
+I am a flutter application developer with 5 years of experience, continuously committed to quality. I focus on creating exceptional user experiences, bridging the gap between customer needs and user expectations.<br>
 <br>
 <br>
 
