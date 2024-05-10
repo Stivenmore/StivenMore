@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **ingenierostiven@outlook.es**
 
-- ⚡ About me **Software Engineer with 6 years of experience**
+- ⚡ About me ** I'm Software Engineer with 6 years of experience**
 
 <br>
 <br>
