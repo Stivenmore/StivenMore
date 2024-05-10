@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **ingenierostiven@outlook.es**
 
-- ⚡ About me **Flutter application developer with 5 years of experience**
+- ⚡ About me **Software Engineer with 6 years of experience**
 
 <br>
 <br>
