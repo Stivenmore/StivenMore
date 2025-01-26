@@ -31,7 +31,7 @@
 # 🌐 Socials:
 <h3 align="left">Connect with me:</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smoreb/) [![Personal Website](https://img.shields.io/badge/Website-000000?logo=Codepen&logoColor=white)](https://smoreb.me/home) [![Prototype](https://img.shields.io/badge/Prototypes-000000?logo=Codepen&logoColor=white)](https://prototypes.smoreb.me/prototypes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smoreb/) [![Personal Website](https://img.shields.io/badge/Website-000000?logo=Codepen&logoColor=white)](https://smoreb.com) [![Prototype](https://img.shields.io/badge/Prototypes-000000?logo=Codepen&logoColor=white)](https://prototypes.smoreb.me/prototypes)
 <br>
 <br>
 <br>
