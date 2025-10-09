@@ -12,11 +12,11 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on **Flutter Projects**
+- 🔭 I’m currently working on **Flutter and Swift Projects**
 
-- 🌱 I’m currently learning **ML, IOS(Vision PRO) and NestJS**
+- 🌱 I’m currently learning **ML, Foundation Model Apple and Infraestructure with Cloudflare**
 
-- 💬 Ask me about **Flutter and NodeJS**
+- 💬 Ask me about **Flutter, Swift, HonoJS, Cloudflare, etc...**
 
 - 📫 How to reach me **hello@smoreb.com**
 
