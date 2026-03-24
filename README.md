@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **hello@smoreb.com**
 
-- ⚡ About me ** I'm Software Engineer with 6 years of experience**
+- ⚡ About me ** I'm Software Engineer with 7 years of experience**
 
 <br>
 <br>
@@ -38,7 +38,7 @@
 
 
 # 🚀 About Me:
-I am a flutter application developer with 7 years of experience, continuously committed to quality. I focus on creating exceptional user experiences, bridging the gap between customer needs and user expectations.<br>
+I am a Software Developer with 7 years of experience, continuously committed to quality. I focus on creating exceptional user experiences, bridging the gap between customer needs and user expectations.<br>
 <br>
 <br>
 
